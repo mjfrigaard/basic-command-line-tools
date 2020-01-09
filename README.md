@@ -5,9 +5,13 @@ This is the first scenario for Katacoda (from O'Reilly).
 
 ## Setup scenario with Katecoda
 
-After receiving the Katacoda Invite email, I logged into the
+After receiving the Katacoda Invite email, I logged into Katacoda with my Github account.
 
-These steps were uses to set up the scenario for Katacoda.
+![figs](getting-started-katecoda.png)
+
+The url for my acount is created (https//:katacoda.com/mjfrigaard).
+
+The link for the documentation is [here](https://www.katacoda.com/docs). These steps were uses to set up the scenario for Katacoda.
 
 ```bash
 % katacoda scenarios:create
@@ -21,7 +25,9 @@ These steps were uses to set up the scenario for Katacoda.
 ? Layout:  Editor + Terminal # not sure what we'll find here, but we will find out!
 ```
 
-##
+## Setting up the Github repo
+
+These commands were used to set up the Gitub repo.
 
 ```bash
 git remote add origin https://github.com/mjfrigaard/basic-command-line-tools.git
