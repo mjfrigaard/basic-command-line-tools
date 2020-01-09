@@ -7,9 +7,9 @@ This is the first scenario for Katacoda (from O'Reilly).
 
 After receiving the Katacoda Invite email, I logged into Katacoda with my Github account.
 
-![figs](getting-started-katecoda.png)
+![figs](figs/getting-started-katecoda.png)
 
-The url for my acount is created (https//:katacoda.com/mjfrigaard).
+The url for my acount is created (`https//:katacoda.com/mjfrigaard`).
 
 The link for the documentation is [here](https://www.katacoda.com/docs). These steps were uses to set up the scenario for Katacoda.
 
