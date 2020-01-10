@@ -42,6 +42,10 @@ git remote add origin https://github.com/mjfrigaard/basic-command-line-tools.git
 git push -u origin master
 ```
 
-## Scenario content
+## Katecoda tutorial
+
+The tutorial for building the scenario is [here](https://katacoda.com/scenario-examples/scenarios/create-scenario-101).
+
+## Scenario contents 
 
 This scenario covers some basic features of the command line, specifically [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell). In 2018, the macOS switched from the Bash
