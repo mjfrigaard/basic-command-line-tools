@@ -3,6 +3,14 @@ Basic command line tools
 
 This is the first scenario for Katacoda (from O'Reilly).
 
+## Download CLI for Katacoda
+
+First download the installation pack from Terminal:
+
+```bash
+npm install katacoda-cli --global
+```
+
 ## Setup scenario with Katecoda
 
 After receiving the Katacoda Invite email, I logged into Katacoda with my Github account.
@@ -33,3 +41,7 @@ These commands were used to set up the Gitub repo.
 git remote add origin https://github.com/mjfrigaard/basic-command-line-tools.git
 git push -u origin master
 ```
+
+## Scenario content
+
+This scenario covers some basic features of the command line, specifically [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell). In 2018, the macOS switched from the Bash
