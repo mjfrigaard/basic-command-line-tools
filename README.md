@@ -1,4 +1,4 @@
-Basic command line tools
+Basic command line tools (Katacoda)
 ========================
 
 This is the first scenario for Katacoda (from O'Reilly).
@@ -11,11 +11,11 @@ First download the installation pack from Terminal:
 npm install katacoda-cli --global
 ```
 
-## Setup scenario with Katecoda
+## Setup scenario with Katacoda
 
 After receiving the Katacoda Invite email, I logged into Katacoda with my Github account.
 
-![figs](figs/getting-started-katecoda.png)
+![figs](figs/getting-started-Katacoda.png)
 
 The url for my acount is created (`https//:katacoda.com/mjfrigaard`).
 
@@ -42,10 +42,12 @@ git remote add origin https://github.com/mjfrigaard/basic-command-line-tools.git
 git push -u origin master
 ```
 
-## Katecoda tutorial
+## Katacoda tutorial
 
 The tutorial for building the scenario is [here](https://katacoda.com/scenario-examples/scenarios/create-scenario-101).
 
-## Scenario contents 
+### Katacoda
+
+## Scenario contents
 
 This scenario covers some basic features of the command line, specifically [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell). In 2018, the macOS switched from the Bash
