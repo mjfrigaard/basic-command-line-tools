@@ -15,7 +15,7 @@ npm install katacoda-cli --global
 
 After receiving the Katacoda Invite email, I logged into Katacoda with my Github account.
 
-![figs](figs/getting-started-Katacoda.png)
+![](figs/getting-started-katecoda.png)
 
 The url for my acount is created (`https//:katacoda.com/mjfrigaard`).
 
@@ -46,7 +46,13 @@ git push -u origin master
 
 The tutorial for building the scenario is [here](https://katacoda.com/scenario-examples/scenarios/create-scenario-101).
 
-### Katacoda
+### Katacoda guidelines
+
+There are multiple guidelines and resources for writing scenarios. O'Reilly has provided an Authoring Guide and Formatting and Design Guide.
+
+The link for these files can be found here:
+
+
 
 ## Scenario contents
 
